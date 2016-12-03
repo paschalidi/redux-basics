@@ -4,7 +4,7 @@ This is yet another small project that I implemented while trying to make
 myself comfortable with Redux.
 
 Its mainly made for educational purpsosed.
-Always focued on writting clean readable code using best practises.
+Always focued on writting clean readable code using best practices.
 
 ###Getting Started###
 
